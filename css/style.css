@@ -8,10 +8,10 @@
     font-size: 20px;
 }
 .font {
-    font-size: 22px;
+    font-size: 20px;
 }
 .name-div {
-    padding: 10px 0px 20px 55px;
+    padding: 0px 0px 0px 55px;
     text-align: center;
     letter-spacing: 3px;
 }
@@ -19,8 +19,8 @@
     margin-bottom: 10px;
 }
 .resume-image {
-    width: 300px;
-    height: 300px;
+    width: 270px;
+    height: 270px;
     background-color:#ddd;
     border-radius: 50%;
     
@@ -48,7 +48,7 @@
 .left {
     background-color: bisque;
     width: 330px;
-    height: 1410px;
+    height: 1200px;
     float: left;
 }
 .resume11 {
@@ -61,7 +61,7 @@
 }
 .box-2 {
     padding: 0px 50px;
-    margin-top: 30px;
+    margin-top: 26px;
 }
 .p2 {
     font-size: 20px;
@@ -73,7 +73,7 @@
     background-color: #4d4d4d;
     padding: 1px;
     color: #fbb03d;
-    font-size: 36px;
+    font-size: 24px;
     padding-left: 20px;
    
 }
@@ -106,7 +106,7 @@
         font-size: 75px;
       }
       .contact-title {
-        font-size: 30px;
+        font-size: 24px;
       }
       .coll{
         text-decoration: none;
